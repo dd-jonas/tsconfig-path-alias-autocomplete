@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "~/noIndex/*": ["noIndex/*"],
+      "~/withIndex": ["withIndex/index.ts"]
+    }
+  }
+}
